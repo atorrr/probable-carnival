@@ -5,13 +5,20 @@ Curso para aprender a programar en Python
 🐍 Primera Sesión: De cero a héroe
 
 ▶️ Introducción
+
 ¿Qué es un Python? ¿Qué es un programar? ¿Cómo usarlo? ¡Entornos de Python!
+
 ▶️ Aspectos básicos en programación
+
 Tipos de variables, NumPy
 :dart: Actividad 1: 
+
 ▶️ Acciones en Python
+
 Ciclos for, condicionales, funciones
 :dart: Actividad 2: 
+
+
 ▶️ Graficando mis resultados
 Matplotlib
 :dart: Actividad n: 
