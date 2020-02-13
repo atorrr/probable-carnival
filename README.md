@@ -4,12 +4,10 @@ Curso para aprender a programar en Python
 
 🐍 Primera Sesión: De cero a héroe
 
-▶️ Introducción
+▶️ Introducción \n
+¿Qué es un Python? ¿Qué es un programar? ¿Cómo usarlo? ¡Entornos de Python!\\
 
-¿Qué es un Python? ¿Qué es un programar? ¿Cómo usarlo? ¡Entornos de Python!
-
-▶️ Aspectos básicos en programación
-
+▶️ Aspectos básicos en programación \\
 Tipos de variables, NumPy
 :dart: Actividad 1: 
 
